@@ -1,4 +1,4 @@
-# Milestone 1 - APP_NAME_HERE (Unit 7)
+# Milestone 1 - Digital Habit Tracker (Unit 7)
 
 ## Table of Contents
 
@@ -14,7 +14,6 @@ An app that helps users build and maintain healthy habits by tracking daily acti
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
 - **Category:** Health/Fitness
 - **Mobile:** Provides a mobile app for tracking daily habits, setting goals, and monitoring progress on the go. Offers reminders and notifications to keep users on track.
 - **Story:** The story revolves around helping users lead healthier and more organized lives by cultivating positive habits. It emphasizes personal growth and self-improvement, which can resonate well with the audience. The value proposition is clear by using the app, users can track their habits, set goals, and receive personalized insights to achieve positive behavioral changes.
@@ -33,15 +32,15 @@ An app that helps users build and maintain healthy habits by tracking daily acti
 
 **Required Features**
 
-1. [fill in your required user features here]
-2. ...
-3. ...
+1. Feedback and Insights: Provide personalized feedback and insights based on user data to help users optimize their habits and improve their overall well-being.
+2. Habit Tracking: Provide a user-friendly interface for logging daily activities and tracking progress towards goals.
+3. Goal Setting: Allow users to set specific goals for habits they want to establish or break.
 
 **Optional Features**
 
-1. [fill in your optional user features here]
-2. ...
-3. ...
+1. Change Theme: Allows the user to change the screen to either Dark or Light mode.
+2. Mood Tracking: Include the ability for users to log their mood or emotional state alongside their habit tracking, providing additional context and insights.
+3. Gamification Elements: Incorporate gamification elements such as levels, achievements, or virtual rewards to make habit tracking more engaging and enjoyable.
 
 ### 2. Screen Archetypes
 
